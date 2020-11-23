@@ -16,4 +16,4 @@ COPY mycontext.xml /usr/local/tomcat/webapps/host-manager/META-INF/context.xml
 COPY mycontext.xml /usr/local/tomcat/webapps/manager/META-INF/context.xml
 
 # COPY THE APP
-COPY webapp.war /usr/local/tomcat/webapps/webapp.war
+COPY AGarciaPa1.war /usr/local/tomcat/webapps/webapp.war

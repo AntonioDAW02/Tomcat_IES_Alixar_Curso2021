@@ -9,6 +9,6 @@
     <role rolename="admin-script" />
 
     <!-- Un usuario con todos los permisos. No es seguro para producción -->
-    <user username="tomcat" password="tomcat" roles="tomcat,manager-gui,manager-script,admin-gui,admin-script" />
+    <user username="antonio" password="antonio" roles="tomcat,manager-gui,manager-script,admin-gui,admin-script" />
 
 </tomcat-users>
